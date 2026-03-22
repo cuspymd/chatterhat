@@ -1,18 +1,17 @@
 {
 	"schemaVersion": 1,
-	"id": "chatterhat-mod",
+	"id": "chatterhat",
 	"version": "${version}",
-	"name": "ChatterHat Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "ChatterHat",
+	"description": "A talkative companion hat for Minecraft singleplayer with Ollama-powered dialogue.",
 	"authors": [
-		"Me!"
+		"cuspymd"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/cuspymd/chatterhat"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/chatterhat-mod/icon.png",
+	"icon": "assets/chatterhat/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [

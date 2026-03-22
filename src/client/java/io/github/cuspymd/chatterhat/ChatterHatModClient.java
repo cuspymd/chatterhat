@@ -5,6 +5,6 @@ import net.fabricmc.api.ClientModInitializer;
 public class ChatterHatModClient implements ClientModInitializer {
 	@Override
 	public void onInitializeClient() {
-		// This entrypoint is suitable for setting up client-specific logic, such as rendering.
+		// UI screens are planned for a later phase. The current MVP is command-driven.
 	}
 }
